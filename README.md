@@ -1,4 +1,6 @@
-# OIBSIP
+# OIBSIS
+
+# PROJECT 01(LEVEL 01)
 
 ## Supermart Grocery Sales – Retail Analytics (EDA Project)
 📌 Project Title
@@ -178,7 +180,9 @@ The findings can support data-driven decision-making to improve revenue growth a
 Internship Project – Data Analysis
 Anitha A S
 
-🏠 House Price Prediction using Linear Regression
+# PROJECT 01(LEVEL 02)
+
+# House Price Prediction using Linear Regression
 📌 Project Title
 
 Predicting House Prices using Linear Regression
