@@ -1,3 +1,4 @@
+
 # OIBSIS
 
 # PROJECT 01(LEVEL 01)
@@ -357,4 +358,174 @@ It provides hands-on experience in applying machine learning techniques to real-
 👩‍💻 Author
 
 Internship Project – Data Analysis / Machine Learning
+Anitha Ani
+
+# PROJECT 02(LEVEL_01)
+# Marketing Analytics – Customer Segmentation
+📌 Project Title
+
+Customer Segmentation using Data Analytics Techniques
+
+📖 Project Description
+
+This project focuses on analyzing customer data to perform customer segmentation for marketing analytics.
+
+Customer segmentation helps businesses divide customers into meaningful groups based on purchasing behavior, income, spending patterns, or demographic characteristics.
+
+The objective is to identify distinct customer groups that can help businesses design targeted marketing strategies.
+
+The project is implemented using Python in Jupyter Notebook.
+
+🎯 Objectives
+
+Perform exploratory data analysis (EDA) on customer data
+
+Clean and preprocess the dataset
+
+Analyze customer behavior patterns
+
+Segment customers into meaningful groups
+
+Visualize segmentation results
+
+Provide actionable marketing recommendations
+
+🛠️ Tools & Technologies Used
+
+Python
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Scikit-Learn (for clustering if used)
+
+📂 Dataset Overview
+
+The dataset contains customer-related information such as:
+
+Customer ID
+
+Age
+
+Gender
+
+Annual Income
+
+Spending Score
+
+Purchase behavior metrics
+
+(Exact features depend on the dataset used in the notebook.)
+
+🔎 Steps Performed
+1️⃣ Data Loading
+
+Imported the dataset using Pandas
+
+Displayed first few rows
+
+Checked dataset dimensions
+
+2️⃣ Data Exploration
+
+Checked data types
+
+Identified missing values
+
+Generated statistical summaries
+
+Observed distribution of key features
+
+3️⃣ Data Cleaning
+
+Handled missing values
+
+Removed duplicates
+
+Converted data types if required
+
+4️⃣ Exploratory Data Analysis (EDA)
+
+Analyzed income distribution
+
+Studied spending score patterns
+
+Compared customer behavior across demographics
+
+Identified trends and correlations
+
+5️⃣ Customer Segmentation
+
+Customer segmentation was performed using analytical techniques such as:
+
+Grouping based on income and spending
+
+Clustering (e.g., K-Means if implemented)
+
+This helps identify customer types like:
+
+High income – High spending
+
+High income – Low spending
+
+Low income – High spending
+
+Low income – Low spending
+
+6️⃣ Visualization
+
+Various visualizations were created to understand patterns:
+
+Scatter plots
+
+Bar charts
+
+Cluster visualizations
+
+Distribution plots
+
+These visuals help interpret segmentation clearly.
+
+📈 Key Insights
+
+Customers can be divided into distinct spending groups.
+
+High-income customers do not always spend more.
+
+Certain customer groups offer high revenue potential.
+
+Targeted marketing can improve business growth.
+
+💡 Business Recommendations
+
+Focus premium marketing on high-income, high-spending customers.
+
+Offer discounts to high-income but low-spending customers.
+
+Introduce loyalty programs for frequent buyers.
+
+Personalize promotions based on customer segment.
+
+✅ Conclusion
+
+Customer segmentation enables businesses to:
+
+Understand customer behavior
+
+Improve marketing efficiency
+
+Increase customer retention
+
+Maximize revenue
+
+This project demonstrates how data analytics can be applied to real-world marketing strategies.
+
+👩‍💻 Author
+
+Internship Project – Marketing Analytics
 Anitha Ani
