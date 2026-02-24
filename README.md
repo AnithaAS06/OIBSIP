@@ -529,3 +529,170 @@ This project demonstrates how data analytics can be applied to real-world market
 
 Internship Project – Marketing Analytics
 Anitha Ani
+
+# PROJECT 02(LEVEL_02)
+# Wine Quality Prediction using Machine Learning
+📌 Project Title
+
+Wine Quality Prediction using Random Forest, SGD, and Support Vector Classifier
+
+📖 Project Description
+
+This project aims to predict the quality of wine based on its physicochemical properties using Machine Learning classification algorithms.
+
+The dataset used is WineQT.csv, which contains chemical attributes such as acidity, alcohol content, density, sulphates, and more.
+
+The goal is to:
+
+Perform data preprocessing
+
+Conduct exploratory data analysis (EDA)
+
+Train multiple classification models
+
+Compare their performance
+
+Identify the best-performing model
+
+📂 Dataset Details
+
+Dataset Name: WineQT.csv
+
+Type: Classification Dataset
+
+Target Variable: quality
+
+🔬 Features Used
+
+Fixed Acidity
+
+Volatile Acidity
+
+Citric Acid
+
+Residual Sugar
+
+Chlorides
+
+Free Sulfur Dioxide
+
+Total Sulfur Dioxide
+
+Density
+
+pH
+
+Sulphates
+
+Alcohol
+
+Quality (Output Label)
+
+🛠️ Tools & Technologies
+
+Python
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+⚙️ Project Workflow
+1️⃣ Data Loading
+
+Import dataset using Pandas
+
+Display dataset structure and summary
+
+2️⃣ Data Preprocessing
+
+Check missing values
+
+Remove unnecessary columns (if any)
+
+Separate features (X) and target (y)
+
+3️⃣ Exploratory Data Analysis (EDA)
+
+Correlation heatmap
+
+Quality distribution analysis
+
+Feature relationship visualization
+
+4️⃣ Data Splitting
+
+Train-test split (80% training, 20% testing)
+
+5️⃣ Feature Scaling
+
+StandardScaler used to normalize feature values
+
+6️⃣ Model Implementation
+
+Three classification models were implemented:
+
+🌲 Random Forest Classifier
+
+⚡ Stochastic Gradient Descent (SGD) Classifier
+
+🎯 Support Vector Classifier (SVC)
+
+7️⃣ Model Evaluation
+
+Accuracy Score
+
+Confusion Matrix
+
+Classification Report
+
+8️⃣ Model Comparison
+
+Compare model accuracies
+
+Select best performing model
+
+📊 Expected Output
+
+Accuracy comparison of all three models
+
+Confusion matrix visualization
+
+Classification performance metrics
+
+🚀 How to Run the Notebook
+
+Download the repository
+
+Place WineQT.csv in the same folder as Wine_Quality.ipynb
+
+Open Jupyter Notebook
+
+Run all cells sequentially
+
+🎯 Learning Outcomes
+
+Understanding classification problems
+
+Performing EDA effectively
+
+Applying feature scaling
+
+Implementing multiple ML models
+
+Comparing and evaluating model performance
+
+📌 Conclusion
+
+This project demonstrates how machine learning algorithms can be used to predict wine quality based on chemical attributes. It emphasizes the importance of preprocessing, visualization, and model evaluation in building reliable predictive systems.
+
+Author
+internship project - Wine Quality Analysis
+Anitha Ani
